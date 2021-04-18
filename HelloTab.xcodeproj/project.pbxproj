@@ -13,6 +13,7 @@
 		205C3041262BCE1B00E773B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 205C303F262BCE1B00E773B9 /* Main.storyboard */; };
 		205C3043262BCE1D00E773B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 205C3042262BCE1D00E773B9 /* Assets.xcassets */; };
 		205C3046262BCE1D00E773B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 205C3044262BCE1D00E773B9 /* LaunchScreen.storyboard */; };
+		205C304F262BD78400E773B9 /* Page2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205C304E262BD78400E773B9 /* Page2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		205C3042262BCE1D00E773B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		205C3045262BCE1D00E773B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		205C3047262BCE1D00E773B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		205C304E262BD78400E773B9 /* Page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				205C3039262BCE1B00E773B9 /* AppDelegate.swift */,
 				205C303B262BCE1B00E773B9 /* SceneDelegate.swift */,
 				205C303D262BCE1B00E773B9 /* ViewController.swift */,
+				205C304E262BD78400E773B9 /* Page2ViewController.swift */,
 				205C303F262BCE1B00E773B9 /* Main.storyboard */,
 				205C3042262BCE1D00E773B9 /* Assets.xcassets */,
 				205C3044262BCE1D00E773B9 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				205C303E262BCE1B00E773B9 /* ViewController.swift in Sources */,
 				205C303A262BCE1B00E773B9 /* AppDelegate.swift in Sources */,
+				205C304F262BD78400E773B9 /* Page2ViewController.swift in Sources */,
 				205C303C262BCE1B00E773B9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
